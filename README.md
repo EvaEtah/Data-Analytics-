@@ -9,3 +9,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 Find my LinkedIn [ here ](http://www.linkedin.com/in/vogelle3etah)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. I am thrilled to share my journey with you and hope you find this space resourceful.
+
+
+# Portfolio Projects
+Python
+
