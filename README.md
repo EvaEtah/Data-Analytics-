@@ -1,6 +1,6 @@
 # Vogelle Etah - Data Analyst Portfolio
 # About
-Hi, Vogelle here! I am a Data Analyst with a background in Mathematics and Statistics from the University of Connecticut and currently looking to oobtain a degree in Data Science (MS. Data Science). I have developed a strong foundation in the statistical methods and have a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science.
+Hi, Vogelle here! I am a Data Analyst with a background in Mathematics and Statistics from the University of Connecticut and currently looking to oobtain a degree in Data Science (MS. Data Science). I have developed a strong foundation in statistical methods and have a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science.
 
 With over 3 years experience as a Data Analyst and currently working at Amazon Inc., I have honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in innovative techniques for data management and statistical analysis through the use of cloud-based resources and AI, which have been valuable assets in my current role and I believe will continue to propel my analytical aptitude even further. 
 
