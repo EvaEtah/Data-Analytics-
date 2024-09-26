@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects
 Python #1
 
-Analyzing the Factors Contributing to the Success of a Movie
+Movie Analysis: Analyzing the Factors Contributing to the Success of a Movie
 Code: Analyzing the Factors Contributing to the Success of a Movie.ipynb
 
 Goal: To determine what factors contribute the most to a movie's success.
